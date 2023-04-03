@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealproject\\phasmo\\phasmo\\source\\phasmo\\phasmo.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealproject\\phasmo\\phasmo\\intermediate\\build\\win64\\phasmoeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealproject\\phasmo\\phasmo\\intermediate\\build\\win64\\unrealeditor\\development\\phasmo\\definitions.phasmo.h",
+            "d:\\unrealproject\\phasmo\\phasmo\\source\\phasmo\\phasmo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

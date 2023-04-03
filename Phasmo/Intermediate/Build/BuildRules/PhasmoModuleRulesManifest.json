@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealProject\\Phasmo\\Phasmo\\Source\\Phasmo\\Phasmo.Build.cs",
+		"D:\\UnrealProject\\Phasmo\\Phasmo\\Source\\Phasmo.Target.cs",
+		"D:\\UnrealProject\\Phasmo\\Phasmo\\Source\\PhasmoEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

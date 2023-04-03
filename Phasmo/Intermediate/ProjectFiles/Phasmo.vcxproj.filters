@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Phasmo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Phasmo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PhasmoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Phasmo">
+      <UniqueIdentifier>{D4D5AD0A-F98F-35CF-9398-D83631F4C556}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Phasmo\GameInfo.cpp">
+      <Filter>Source\Phasmo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Phasmo\GameInfo.h">
+      <Filter>Source\Phasmo</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Phasmo\Phasmo.Build.cs">
+      <Filter>Source\Phasmo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Phasmo\Phasmo.cpp">
+      <Filter>Source\Phasmo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Phasmo\Phasmo.h">
+      <Filter>Source\Phasmo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Phasmo\PhasmoGameInstance.cpp">
+      <Filter>Source\Phasmo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Phasmo\PhasmoGameInstance.h">
+      <Filter>Source\Phasmo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Phasmo\PhasmoGameModeBase.cpp">
+      <Filter>Source\Phasmo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Phasmo\PhasmoGameModeBase.h">
+      <Filter>Source\Phasmo</Filter>
+    </ClInclude>
+    <Filter Include="Source\Phasmo\Manager">
+      <UniqueIdentifier>{2FE9B17F-2BBB-3312-8081-EDA525068F6E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Phasmo\Manager\NoteManager.cpp">
+      <Filter>Source\Phasmo\Manager</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Phasmo\Manager\NoteManager.h">
+      <Filter>Source\Phasmo\Manager</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

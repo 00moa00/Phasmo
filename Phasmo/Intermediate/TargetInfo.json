@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Phasmo",
+			"Path": "D:\\UnrealProject\\Phasmo\\Phasmo\\Source\\Phasmo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PhasmoEditor",
+			"Path": "D:\\UnrealProject\\Phasmo\\Phasmo\\Source\\PhasmoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
